@@ -383,7 +383,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📫 Contact
 
-Project Link: [https://github.com/nilanshukumarsingh/learning-javascript](https://github.com/nilanshukumarsingh/learning-javascript)
+Project Link: [https://github.com/nilanshukumarsingh/javascript-learning](https://github.com/nilanshukumarsingh/javascript-learning)
 
 ---
 
